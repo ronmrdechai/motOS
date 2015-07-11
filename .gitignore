@@ -1,0 +1,6 @@
+*.bin
+*.o
+.*.swp
+.session.vim
+tags
+.DS_Store
