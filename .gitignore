@@ -3,4 +3,6 @@
 .*.swp
 .session.vim
 tags
+*.iso
+isodir/
 .DS_Store
